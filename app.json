@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Skyy112/filesharing",
-  "logo": "https://telegra.ph/file/6ef66c6732fdc81690ff3.jpg",
+  "logo": "https://telegra.ph/file/252dfcbedde1b6aa209d2.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
